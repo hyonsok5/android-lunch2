@@ -16,4 +16,6 @@
 .settings 
 .project
 keyStore-password.txt
+private_key.pepk
 
+*.apk
